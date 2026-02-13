@@ -1,9 +1,9 @@
 {
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
-
+// POKEGET LOGO!!
   "logo": {
     "type": "command-raw",
-    "source": "pokeget --hide-name emolga",
+    "source": "pokeget --hide-name emolga", // Change emolga for anything
     "width": 10,
     "height": 5,
     "padding": {
