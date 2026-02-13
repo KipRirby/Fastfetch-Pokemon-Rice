@@ -2,14 +2,8 @@
 My personal rice for fastfetch which utilizes the pokeget terminal tool to display pokemon of your choice!
 
 Under the logo section you can replace the Source with any pokemon from pokeget.
+To find any and all pokeget pokemon and commands please go to https://github.com/talwat/pokeget-rs
 
-  "logo": {
-    "type": "command-raw",
-    "source": "pokeget --hide-name emolga",
-    "width": 10,
-    "height": 5,
-    "padding": {
-      "top": 6,
-      "left": 5
-    }
-  },
+
+
+!!! THIS IS NOT MY FINAL CONFIG PLEASE BE WELCOME TO FORK FOR COOLER STUFF !!!
